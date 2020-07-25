@@ -13,11 +13,11 @@
      - Computer Vision: hierarchically learning
 
 ### 1.2 Machine Learning
-     - Applications: computer vision, natural language processing, recommendation systems etc.
-     - Artificial Intelligence vs. Machine Learning
+#### 1.2.1 Applications: computer vision, natural language processing, recommendation systems etc.
+#### 1.2.2 Artificial Intelligence vs. Machine Learning
        Artificial Intelligence: complete a task by using given problem solving principles.
        Machine Learning: learn from experience without given programs, but through given data.
-     - Supervised Learning vs. Unsupervised Learning
+#### 1.2.3 Supervised Learning vs. Unsupervised Learning
        Supervised learning: input data with corresponding labels.
        Unsupervised learning: input data without corresponding labels.
 ### 1.3 Deep Learning Pipeline
