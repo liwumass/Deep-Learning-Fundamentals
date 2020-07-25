@@ -21,6 +21,13 @@
        Supervised learning: input data with corresponding labels.
        Unsupervised learning: input data without corresponding labels.
 ### 1.3 Deep Learning Pipeline
-     - 
-       
-        
+#### 1.3.1 Neural Networks
+       - Structure: Input Layer -> Hidden Layer -> Output Layer
+       - Weights
+#### 1.3.2 Optimize Neural Networks
+       - Computing Ability
+       - Dataset
+       - Score Function
+       - Loss Function
+#### 1.3.3 Loss Function
+       - Gradient Descent: minimize loss function to get global cost minimum.
