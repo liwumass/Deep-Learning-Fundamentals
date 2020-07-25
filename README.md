@@ -1,5 +1,5 @@
 # Deep-Learning-Fundamentals
-##   Section1 Deep Learning Basics
+##   Section1: Deep Learning Basics
 ### 1.1 The Development of Deep Learning
 #### 1.1.1 Turing Test
      - Turing Test: 1950, Turing, a computer's performance is lmost equal to a human's performance.
@@ -33,3 +33,8 @@
        - Gradient Descent: minimize loss function to get global cost minimum.
 #### 1.3.4 Pipeline
        - Dataset Preparation -> Set up Neural Networks -> Train the Model -> Evaluate the Model -> Prediction -> Optimize the Model
+
+## Section2: Math Basics
+
+## Section3: Python
+
