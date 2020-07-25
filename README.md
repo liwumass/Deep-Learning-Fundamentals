@@ -31,3 +31,5 @@
        - Loss Function
 #### 1.3.3 Loss Function
        - Gradient Descent: minimize loss function to get global cost minimum.
+#### 1.3.4 Pipeline
+       - Dataset Preparation -> Set up Neural Networks -> Train the Model -> Evaluate the Model -> Prediction -> Optimize the Model
